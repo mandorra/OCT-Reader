@@ -1,4 +1,5 @@
 from struct import unpack
+import numpy as np
 
 def getOCTHdr(file):
 
